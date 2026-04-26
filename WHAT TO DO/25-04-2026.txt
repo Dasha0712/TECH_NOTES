@@ -1,0 +1,6 @@
+What i am going to do today?
+1. learn about environment variable - from this i can able to run any type of file type with its code compiler or intrepreter.
+2. then i am learn about notes uploading in to gihub how to maintaina the notes in github, usage of notes form anothern laptop.
+3. learn baout mffm integration to microscada(ask questions about 1. how node is delveloped we are only configuring the harwwired signals where it is created is it from rtu 2. how to integrate multiple mfm in to microscada 3. what yabesh said about station - adding the only set of signals to he particular node 4. what about the other probelms he faced at the site )
+4. exporting and importing the bay in to the new project and hmi testing of it
+5. 
